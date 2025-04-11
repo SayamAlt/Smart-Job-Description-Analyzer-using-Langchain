@@ -46,12 +46,6 @@ This project showcases advanced applications of **LangChain**, **OpenAI GPT-4**,
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots here once deployed (e.g., of match score, radar chart, PDF report)
-
----
-
 ## 🧪 How to Run Locally
 
 ### 1. Clone the repo
