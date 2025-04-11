@@ -4,6 +4,10 @@ The **Smart Job Description Analyzer** is a powerful LLM-based application that 
 
 This project showcases advanced applications of **LangChain**, **OpenAI GPT-4**, **FAISS**, and **Streamlit**, along with semantic skill categorization, fuzzy matching, and PDF report generation for a complete end-to-end experience.
 
+![Job Description Analyzer](https://media.istockphoto.com/id/1723252472/vector/job-description-reading-job-description-carefully-person-hold-magnifying-glass-to-look-at.jpg?s=612x612&w=0&k=20&c=0a3otdak1-LU7XjEik0Th6GeQoldavlmHWgyy63zgZU=)
+![Job Matching](https://i.ytimg.com/vi/HoAG5PEpKaE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLChKujSS9KNopcLGU2wQQnpign4KQ)
+![Resume Job Description Match](https://cdn.prod.website-files.com/627c8700df0be67c4b1d533c/652db856592a53000902364f_Increase_Your_Match_Score.png)
+
 ---
 
 ## 🚀 Features
