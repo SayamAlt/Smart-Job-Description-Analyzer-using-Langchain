@@ -1,0 +1,11 @@
+openai
+streamlit
+pandas
+langchain
+langchain-core
+fuzzywuzzy
+python-dotenv
+plotly
+reportlab
+tiktoken
+pdfplumber
