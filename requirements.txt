@@ -11,3 +11,4 @@ tiktoken
 pdfplumber
 langchain-community
 python-Levenshtein
+faiss-cpu
