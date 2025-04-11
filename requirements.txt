@@ -9,3 +9,4 @@ plotly
 reportlab
 tiktoken
 pdfplumber
+langchain-community
