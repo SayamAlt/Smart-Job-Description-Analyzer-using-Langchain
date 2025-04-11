@@ -10,3 +10,4 @@ reportlab
 tiktoken
 pdfplumber
 langchain-community
+python-Levenshtein
